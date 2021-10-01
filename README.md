@@ -18,7 +18,7 @@ Java IDE [Intellij IDEA Community 2021.2.2](https://www.jetbrains.com/idea/downl
 
 
 ## Clone this repository
-$ git clone <https://github.com/sergiotavuencas/sistema-de-gerenciamento-api-rest>
+$ git clone <https://github.com/sergiotavuencas/people-management-system-rest-api>
 
 
 ## Executing
