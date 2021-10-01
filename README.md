@@ -30,3 +30,4 @@ Open this repository on Intellij IDEA, in the terminal type $ mvn spring-boot:ru
 * Maven 3.8.2
 * Spring Boot 2.5.5
 * Intellij IDEA Community 2021.2.2
+* Heroku
