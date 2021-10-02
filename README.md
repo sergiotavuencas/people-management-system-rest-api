@@ -18,12 +18,17 @@ Java IDE [Intellij IDEA Community 2021.2.2](https://www.jetbrains.com/idea/downl
 
 
 ## Clone this repository
-$ git clone <https://github.com/sergiotavuencas/people-management-system-rest-api>
 
+```shell script
+git clone https://github.com/sergiotavuencas/people-management-system-rest-api
+```
 
 ## Executing
-Open this repository on Intellij IDEA, in the terminal type $ mvn spring-boot:run
+Open this repository on Intellij IDEA, in the terminal type:
 
+```shell script
+mvn spring-boot:run
+```
 
 ## Technologies
 * Java 11
