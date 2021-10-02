@@ -1,4 +1,4 @@
-package one.digitalinnovation.bootcamp.gft.peoplemanagementsystemrestapi.dto;
+package one.digitalinnovation.bootcamp.gft.peoplemanagementsystemrestapi.dto.response;
 
 import lombok.Builder;
 import lombok.Data;
