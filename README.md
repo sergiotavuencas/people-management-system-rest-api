@@ -2,7 +2,7 @@
 
 
 ## About
-This project was developed during GFT Java & AWS Developer Bootcamp by DIO (Digital Innovation One), taught by [Rodrigo Peleias](https://github.com/rpeleias).
+This project was developed during GFT Java & AWS Developer Bootcamp by [DIO](https://github.com/digitalinnovationone) (Digital Innovation One), taught by [Rodrigo Peleias](https://github.com/rpeleias).
 
 
 ## Requirements
